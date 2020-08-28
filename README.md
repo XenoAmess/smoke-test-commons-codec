@@ -1,1 +1,1 @@
-smoke test for [commons-codec](url=https://github.com/apache/commons-codec)
+smoke test for [commons-codec](https://github.com/apache/commons-codec)
